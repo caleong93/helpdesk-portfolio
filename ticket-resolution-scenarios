@@ -1,0 +1,10 @@
+Issue:
+User computer won't power on
+
+Troubleshooting steps:
+1.Check the power cable to make sure it's plugged in, if its pluggued into a power bar, check that it hasn't been powered off and, check PSU power button is in ON position.
+2.Verfiy outlet and or power bar are functioning properly, could plug in a known working device to test.
+3.Open computer case and verify the connections from the power button to motherboard are connected, try unplugging and replugging them. If that doesn't work consult manual to verify the power ON pins and try to manually jumper them.
+Check CMOS battery and reset CMOS either by unplugging battery or with the jumpers
+Check PSU connections to motherboard are okay, visually inspect PSU for any visible signs of damage
+Replace PSU
